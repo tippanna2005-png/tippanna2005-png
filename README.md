@@ -74,8 +74,8 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile
-* 📧 Email: Add your email
+* 💼 LinkedIn: https://www.linkedin.com/in/tippanna-chalawadi-9aa7753b5/
+* 📧 Email: tippanna2005@gmail.com
 
 ---
 
