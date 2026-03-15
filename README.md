@@ -1,9 +1,9 @@
 # <h1 align="center">Hi 👋, I'm Tippanna Chalawadi</h1>
 
-<h3 align="center">Computer Science Engineering Student | Java & DSA Enthusiast</h3>
+<h3 align="center">CSE Student | Aspiring Java Developer | Problem Solving Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Pre-Final+Year+CSE+Student;Java+Developer;Data+Structures+Learner;Passionate+Programmer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Pre-Final+Year+Engineering+Student;Java+Programming+Learner;DSA+Enthusiast;Future+Software+Developer" />
 </p>
 
 ---
